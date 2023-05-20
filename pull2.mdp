@@ -1,6 +1,6 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; never touch this part
-define                   = 
+define                   = -DPOSRES_SMD 
 comm-mode                = LINEAR          ;
 nstcomm                  = 100
 cutoff-scheme            = Verlet
