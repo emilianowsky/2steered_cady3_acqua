@@ -41,7 +41,7 @@ energygrps               =
 tcoupl                   = v-rescale
 tc-grps                  = Water non-water
 tau-t                    = 0.1 0.1
-ref-t                    = 500 500
+ref-t                    = 300 300
 
 
 ; SIMULATED ANNEALING  
